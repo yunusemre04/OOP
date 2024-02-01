@@ -1,0 +1,4 @@
+@startuml Inheretience
+title Inheritence
+class Software{}
+@endumol
